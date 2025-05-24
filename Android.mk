@@ -6,7 +6,7 @@ LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),mondrian)
 
-$(call add-radio-file-sha1-checked,radio/abl.img,237960d401c1985dd7378b906eb2267a7f54f1e4)
+$(call add-radio-file-sha1-checked,radio/abl.img,50c1a5b631761705eeecf4e4285655e12a53cd12)
 $(call add-radio-file-sha1-checked,radio/aop.img,12f6c2660d55bf62bdd90664ebb2b412a0b82281)
 $(call add-radio-file-sha1-checked,radio/aop_config.img,017166ea8e199af779f30e78ce4d6978accf8e15)
 $(call add-radio-file-sha1-checked,radio/bluetooth.img,9d14ba51527af970fdb3eedb473c95b10ddca604)
