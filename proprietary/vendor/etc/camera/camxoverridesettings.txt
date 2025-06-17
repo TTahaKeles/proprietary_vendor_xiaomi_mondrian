@@ -17,6 +17,7 @@ maxDigitalZoom=10.0
 enablePerRequestSync=FALSE
 isPhyicalMultiCameraSupported=TRUE
 videoSATSupportedRange=0x03
+enableSatZoomingButton=TRUE
 
 # SAT zoom animation params
 isSwitchAnimationSupported=TRUE
