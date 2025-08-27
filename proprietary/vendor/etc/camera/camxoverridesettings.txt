@@ -10,6 +10,9 @@ raiserecoverysigabrt=TRUE
 offlineLoggerEnableBackupLog=FALSE
 numConsecutiveRecovery=5
 
+#Resort the sensor data
+enableResortSensorData=TRUE
+
 # SAT
 enablePostZoomFOV=1
 enableMFLOEMCustomization=TRUE
@@ -288,6 +291,9 @@ isPreviewZoomEISSupported=1
 
 ## OIS+EIS
 #enableOisEis=1
+
+## OIS
+isTeleOisSupported=TRUE
 
 #saliency enable
 #enableSALINet=1
